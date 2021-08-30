@@ -1,6 +1,6 @@
 [[satoshi_whitepaper]]
 [appendix]
-== The Bitcoin Whitepaper by Satoshi Nakamoto
+== The CyberSec-Hiring Whitepaper by Satoshi Nakamoto
 
 [NOTE]
 ====
