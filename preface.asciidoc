@@ -1,7 +1,7 @@
 [preface]
 == Preface
 
-=== Writing the Bitcoin Book
+=== Writing the CyberSec-Hiring Book
 
 ((("bitcoin", "benefits of", id="BCbasicbenefits0")))((("decentralized systems", "bitcoin as")))I first stumbled upon bitcoin in mid-2011. My immediate reaction was more or less "Pfft! Nerd money!" and I ignored it for another six months, failing to grasp its importance. This is a reaction that I have seen repeated among many of the smartest people I know, which gives me some consolation. The second time I came across bitcoin, in a mailing list discussion, I decided to read the whitepaper written by Satoshi Nakamoto to study the authoritative source and see what it was all about. ((("digital currencies", "bitcoin vs. others")))I still remember the moment I finished reading those nine pages, when I realized that bitcoin was not simply a digital currency, but a network of trust that could also provide the basis for so much more than just currencies. The realization that "this isn't money, it's a decentralized trust network," started me on a four-month journey to devour every scrap of information about bitcoin I could find. I became obsessed and enthralled, spending 12 or more hours each day glued to a screen, reading, writing, coding, and learning as much as I could. I emerged from this state of fugue, more than 20 pounds lighter from lack of consistent meals, determined to dedicate myself to working on bitcoin.
 
@@ -51,7 +51,7 @@ This icon indicates a warning or caution.
 
 === Code Examples
 
-((("code examples, obtaining and using", id="codeuse00")))The examples are illustrated in Python, C++, and using the command line of a Unix-like operating system such as Linux or macOS. All code snippets are available in the GitHub repository (https://github.com/bitcoinbook/bitcoinbook[https://github.com/bitcoinbook/bitcoinbook]) in the _code_ subdirectory of the main repo. Fork the book code, try the code examples, or submit corrections via GitHub.
+((("code examples, obtaining and using", id="codeuse00")))The examples are illustrated in Python, C++, and using the command line of a Unix-like operating system such as Linux or macOS. All code snippets are available in the GitHub repository (https://github.com/cyberriskop/cybersec-hiring-guide[https://github.com/cyberriskop/cybersec-hiring-guide]) in the _code_ subdirectory of the main repo. Fork the book code, try the code examples, or submit corrections via GitHub.
 
 All the code snippets can be replicated on most operating systems with a minimal installation of compilers and interpreters for the corresponding languages. Where necessary, we provide basic installation instructions and step-by-step examples of the output of those instructions.
 
