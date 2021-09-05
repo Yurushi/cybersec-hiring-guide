@@ -5,7 +5,11 @@ Many contributors offered comments, corrections, and additions to the early-rele
 
 The following is a list of notable GitHub contributors:
 
-* Bronwen Aker
-* Michael Mcpherson (michael89mcpherson)
+* Kip Boyle <Kip@cyberriskopportunities.com>
+* Marc Menninger <marc@marcmenninger.com>
+* Bronwen Aker <bronwen.aker@protonmail.com>
+* Theresa Pon <theresa.pon@gmail.com>
+* Melinda Miller <melindam@cyberriskopportunities.com>
+* Michael Mcpherson <michael89mcpherson@gmail.com>
 
 
